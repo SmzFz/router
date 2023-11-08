@@ -7,7 +7,7 @@ const cliente = [
 ]
 
 
-const Contact = () => {
+const Contact = ()  => {
     console.log(cliente);
   return (
     <>
